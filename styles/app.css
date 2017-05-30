@@ -156,6 +156,14 @@ a:hover{
   padding: 25px;
 }
 
+.achievements-point {
+  width: 15px;
+  height: 15px;
+  border: solid #0a0101 5px;
+  border-radius: 50%;
+  background: #f2f2f2;
+}
+
 .sub-title {
   font-size: 30px;
 }
@@ -223,7 +231,7 @@ a:hover{
 
 .introduction {
   line-height: 30px;
-  color: black;
+  color: #111;
   font-style: italic;
 }
 

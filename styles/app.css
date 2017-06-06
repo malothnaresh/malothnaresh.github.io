@@ -76,13 +76,15 @@ ul li {
   color: #4ac3a8;
 }
 
-@media only screen and (max-width: 500px){
-  .my-avatar{
-    background-image: url("../images/intro_bg.jpg");
-    background-repeat: no-repeat;
-    height: 300px;
-    width: 100%;
-    display: block;
+@media screen and (min-width: 500px){
+  .small-screen{
+    display: none;
+  }
+}
+
+@media screen and (max-width: 480px){
+  .big-screen{
+    display: none;
   }
 }
 
@@ -230,9 +232,8 @@ a:hover{
 }
 
 .introduction {
-  line-height: 30px;
-  color: #111;
-  font-style: italic;
+  line-height: 38px;
+  font-size: 20px;
 }
 
 .name { 

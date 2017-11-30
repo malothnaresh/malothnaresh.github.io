@@ -4,6 +4,10 @@ var skillsCollection = [
     'percentage': '75'
   },
   {
+    'name': 'Angular 5',
+    'percentage': '75'
+  },
+  {
     'name': 'Angular JS',
     'percentage': '90'
   },

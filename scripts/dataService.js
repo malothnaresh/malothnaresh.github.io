@@ -1,22 +1,22 @@
 var skillsCollection = [
   {
-    'name': 'Javascript',
+    'name': 'Vanilla JS & JQuery',
     'percentage': '75'
   },
   {
-    'name': 'Angular 5',
-    'percentage': '75'
+    'name': 'Angular 5 / AngularJS',
+    'percentage': '85'
   },
   {
-    'name': 'Angular JS',
-    'percentage': '90'
-  },
-  {
-    'name': 'JQuery',
+    'name': 'Functional Programming',
     'percentage': '60'
   },
   {
-    'name': 'HTML5, CSS3',
+    'name': 'DS & Algo',
+    'percentage': '60'
+  },
+  {
+    'name': 'HTML, CSS',
     'percentage': '90'
   },
   {
@@ -24,28 +24,24 @@ var skillsCollection = [
     'percentage': '80'
   },
   {
-    'name': 'Java, RESTful APIs',
+    'name': 'RESTful APIs',
     'percentage': '60'
   },
   {
-    'name': 'Maven, Bower',
+    'name': 'Build Tools, Task Runners',
     'percentage': '75'
   },
   {
-    'name': 'Grunt, Gulp',
-    'percentage': '75'
-  },
-  {
-    'name': 'Protractor, Jasmine',
-    'percentage': '65'
-  },
-  {
-    'name': 'Lodash, Underscore',
-    'percentage': '95'
+    'name': 'NodeJS, Java',
+    'percentage': '60'
   },
   {
     'name': 'SVN, GIT',
     'percentage': '80'
+  },
+  {
+    'name': 'Meterial, Redux, RxJS',
+    'percentage': '50'
   }
 ];
 
